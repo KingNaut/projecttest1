@@ -5,6 +5,7 @@
   "main": "knexfile.js",
   "dependencies": {
     "bluebird": "^3.5.3",
+    "bookshelf": "^0.14.2",
     "formidable": "^1.2.1",
     "knex": "^0.16.3",
     "migrate": "^1.6.2",
